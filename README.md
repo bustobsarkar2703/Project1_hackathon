@@ -1,1 +1,3 @@
-# Project1_hackathon
+AI-POWERED CARRIER MENTOR FOR STUDENTS
+
+This is a AI based carrier guidance websitee which allows user to select their preferences and the feild of their lovable subjects. They can describe themselves as Not Interested, Poor, Beginner, Intermediate, Professional in that perticular field. Based on the inputs of from the user our website will generate three or four carrier which will be best option for the user. It will show pie charts and graphs brifing about the top three options. It will also give a brief about the carrier the path and the scopes in that fiels including the average salary from which the user can select their choice. It will also provide some links and videos about that carrier to bosst their interest at that field. We are working on our project and testing to improve its accuracy to the top.
